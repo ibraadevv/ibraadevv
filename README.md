@@ -1,6 +1,6 @@
 👋 Hi, I’m @ibraadevv 👨🏾‍💻
 Currently studying web development.
-I'm passionate about linux distros 🐧🐧🐧 and hardware 🖥️.
+I'm passionate about linux distros 🐧🐧🐧 and systems 🖥️.
 
 <!---
 ibraadevv/ibraadevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
