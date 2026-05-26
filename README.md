@@ -1,6 +1,9 @@
 👋 Hi, I’m @ibraadevv 👨🏾‍💻
-Currently studying web development.
-I'm passionate about linux distros 🐧🐧🐧 and systems 🖥️.
+A backend-oriented Web Developer transitioned into the cybersecurity field. My experience lies in debugging, refactoring, and maintaining web applications under production environments, always with an eye on code quality and security.
+
+- 🛠️ **Current Stack:** Java, JS, PHP, Laravel, MySQL, and Bash.
+- 🔒 **Focus:** Specializing in Application Security (AppSec) and secure development workflows.
+- 🐧 **Passions:** Deeply interested in the GNU/Linux ecosystem, system hardening, and Open Source software.
 
 <div align="center">
   
