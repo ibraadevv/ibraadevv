@@ -19,3 +19,7 @@ A backend-oriented Web Developer transitioned into the cybersecurity field. My e
 
 </div>
 
+  
+  ***FREELANCE PROJECTS***
+
+  https://crrcultural.es/
