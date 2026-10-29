@@ -20,7 +20,7 @@ A backend-oriented Web Developer transitioned into the cybersecurity field. My e
 </div>
 
   ***Portfolio***
-    ibrathiam.dev
+    https://ibrathiam.dev/
 
   ***FREELANCE PROJECTS***
 
