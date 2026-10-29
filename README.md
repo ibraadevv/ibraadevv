@@ -19,7 +19,10 @@ A backend-oriented Web Developer transitioned into the cybersecurity field. My e
 
 </div>
 
-  
+  ****Portfolio ****
+    ibrathiam.dev
+
   ***FREELANCE PROJECTS***
 
   https://crrcultural.es/
+  https://davidsanchezcruz.es/
